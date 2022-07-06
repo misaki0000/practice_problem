@@ -12,7 +12,7 @@ header {
 
 main {
   width: 960px;
-  margin: 50px;
+  margin: 50px auto;
   display: flex;
 }
 
@@ -24,7 +24,7 @@ main {
   position: relative;
 }
 
-.box:last-chiald {
+.box:last-child {
   margin-right: 0
 }
 
